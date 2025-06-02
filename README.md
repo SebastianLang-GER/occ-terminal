@@ -1,6 +1,6 @@
 # Nextcloud OCC Terminal
 This is a PHP tool intended for administrators of [Nextcloud](https://nextcloud.com) instances to run [OCC commands](https://docs.nextcloud.com/server/latest/admin_manual/occ_command.html) via a web browser.  
-This is especially useful if your Nextcloud instance is located on shared hosting servers where you often don't have access to SHH to run commands.
+This is especially useful if your Nextcloud instance is located on shared hosting servers where you often don't have access to SSH to run commands.
 
 ## Installation
 

@@ -3,8 +3,7 @@ This is a PHP tool intended for administrators of [Nextcloud](https://nextcloud.
 This is especially useful if your Nextcloud instance is located on shared hosting servers where you often don't have access to SSH to run commands.
 
 ## Installation
-
-1. Download the [latested release](/releases/latest) of the source code.
+1. Download the [latested release](https://github.com/SebastianLang-GER/occ-terminal/releases/latest) of the source code.
 2. Extract the ZIP archive.
 3. Modify the files [`.htaccess`](#htaccess), [`.htpasswd`](#htpasswd) and optionally [`settings.json`](#settingsjson) as described in the next sections.
 4. Upload the files to your web server.
@@ -34,10 +33,8 @@ Optionally, you can change the tool settings according to your preferences.
 Most of these settings can also be changed in the tool directly if `allow_settings_modification` is set to `true` (default).
 
 ## License
-
 This software is licensed under [MIT licence](/LICENSE).
 
 ## Credits
-
 This tool uses icons based on [Octicons](https://github.com/primer/octicons) by GitHub.
 The icon set is licensed under [MIT licence](https://github.com/primer/octicons/blob/main/LICENSE).
